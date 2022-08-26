@@ -1,4 +1,5 @@
 Step 1: Choose pizza place
 Step 2: Order the pizza
 Step 3: Wait for the delivery
+    Step 3a: Make sure you receive the correct pizza
 Step 4: Eat the pizza
